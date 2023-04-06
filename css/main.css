@@ -1,0 +1,9 @@
+.bg-image{
+    background-image: url("../Pictures/artem-militonian-UYW6FZLlnL8-unsplash.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+.mb-3{
+    color: black;
+}
